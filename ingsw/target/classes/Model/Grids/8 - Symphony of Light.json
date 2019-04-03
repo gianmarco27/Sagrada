@@ -1,0 +1,13 @@
+{
+  "cardName" : "Symphony of Light",
+  "cardId" : 8,
+  "matchId" : 4,
+  "favorPoints" : 6,
+  "restrictions" : [
+    ["2","","5","","1"],
+    ["yellow","6","purple","2","red"],
+    ["","blue","4","green",""],
+    ["","3","","5",""]
+
+  ]
+}

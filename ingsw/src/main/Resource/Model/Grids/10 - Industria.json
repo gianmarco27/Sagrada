@@ -1,0 +1,13 @@
+{
+  "cardName" : "Industria",
+  "cardId" : 10,
+  "matchId" : 5,
+  "favorPoints" : 5,
+  "restrictions" : [
+    ["1","red","3","","6"],
+    ["5","4","red","2",""],
+    ["","","5","red","1"],
+    ["","","","3","red"]
+
+  ]
+}

@@ -1,0 +1,12 @@
+{
+  "cardName" : "Aurora Sagradis",
+  "cardId" : 9,
+  "matchId" : 5,
+  "favorPoints" : 4,
+  "restrictions" : [
+    ["red","","blue","","yellow"],
+    ["4","purple","3","green","2"],
+    ["","1","","5",""],
+    ["","","6","",""]
+  ]
+}

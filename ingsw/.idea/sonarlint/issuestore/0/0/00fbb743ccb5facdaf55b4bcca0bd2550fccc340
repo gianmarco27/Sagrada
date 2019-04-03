@@ -1,0 +1,5 @@
+
+bsquid:CommentedOutCodeLine"<This block of commented-out lines of code should be removed.(ÝêöŸ
+wsquid:S00120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(ìì†ïûÿÿÿÿ
+Fsquid:S1948
+"*Make "pingLock" transient or serializable.(åÅ‡Ëýÿÿÿÿ

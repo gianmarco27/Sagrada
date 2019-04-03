@@ -1,0 +1,6 @@
+
+^squid:S00112)"FDefine and throw a dedicated exception instead of using a generic one.(”úŸ„
+rsquid:S00120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(…ïš
+2squid:S3626I"Remove this redundant jump.(ûÁİ…
+fsquid:S00100)"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(”úŸ„
+2squid:S3626L"Remove this redundant jump.(ûÁİ…

@@ -1,0 +1,10 @@
+
+ysquid:S00120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(û÷±¨8·à˜Æ,
+:squid:S3626·"Remove this redundant jump.(ûÁİ…8·à˜Æ,
+rsquid:ModifiersOrderCheck€"EReorder the modifiers to comply with the Java Language Specification.(ç»Ï8·à˜Æ,
+tsquid:S3038y"Q"isUsable" is defined in the "Tool" interface and can be removed from this class.(ãÎƒ¹ıÿÿÿÿ8·à˜Æ,
+vsquid:ModifiersOrderChecky"EReorder the modifiers to comply with the Java Language Specification.(ãÎƒ¹ıÿÿÿÿ8·à˜Æ,
+:squid:S3626ñ"Remove this redundant jump.(ûÁİ…8·à˜Æ,
+ksquid:S3038€"L"use" is defined in the "Tool" interface and can be removed from this class.(ç»Ï8·à˜Æ,
+bsquid:S1155é">Use isEmpty() to check whether the collection is empty or not.(„²×¨şÿÿÿÿ8·à˜Æ,
+Rsquid:EmptyStatementUsageCheckk"Remove this empty statement.(ôŸìúÿÿÿÿ8·à˜Æ,

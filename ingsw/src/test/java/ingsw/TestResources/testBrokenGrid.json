@@ -1,0 +1,12 @@
+{
+  "cardName" : "Broken Grid",
+  "cardId" : 0,
+  "matchId" : 0,
+  "favorPoints" : 0,
+  "restrictions" : [
+    ["","","","black",""],
+    ["","","","",""],
+    ["","","","",""],
+    ["","","","",""]
+  ]
+}

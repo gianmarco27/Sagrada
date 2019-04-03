@@ -1,0 +1,12 @@
+{
+  "cardName" : "Water Of Life",
+  "cardId" : 19,
+  "matchId" : 10,
+  "favorPoints" : 6,
+  "restrictions" : [
+    ["6","blue","","","1"],
+    ["","5","blue","",""],
+    ["4","red","2","blue",""],
+    ["green","6","yellow","3","purple"]
+  ]
+}

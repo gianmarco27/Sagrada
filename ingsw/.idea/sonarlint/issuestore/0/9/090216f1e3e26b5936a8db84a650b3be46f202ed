@@ -1,0 +1,4 @@
+
+Usquid:S1126"AReplace this if-then-else statement by a single return statement.(Ë¼ð
+psquid:S00120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(û÷±¨
+Rsquid:UselessImportCheck"0Remove this unused import 'ingsw.Server.Player'.(î¹„Ù

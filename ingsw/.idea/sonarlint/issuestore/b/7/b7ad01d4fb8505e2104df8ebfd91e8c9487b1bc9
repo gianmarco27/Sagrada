@@ -1,0 +1,11 @@
+
+`squid:S1126…"AReplace this if-then-else statement by a single return statement.(¢¢Ë÷8·à˜Æ,
+ª%squid:RedundantThrowsDeclarationCheck"mRemove the declaration of thrown exception 'ingsw.Server.Utility.GameException' which is a runtime exception.(›Ë¨ëúÿÿÿÿ8·à˜Æ,
+¥%squid:RedundantThrowsDeclarationCheckb"mRemove the declaration of thrown exception 'ingsw.Server.Utility.GameException' which is a runtime exception.(æ¹¡8·à˜Æ,
+Psquid:S1612ò",Replace this lambda with a method reference.(ë·í÷üÿÿÿÿ8·à˜Æ,
+~squid:S00120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(ìì†ïûÿÿÿÿ8·à˜Æ,
+Csquid:S1948"%Make "gfh" transient or serializable.(ó²Å8·à˜Æ,
+³%squid:RedundantThrowsDeclarationCheck"vRemove the declaration of thrown exception 'java.rmi.RemoteException', as it cannot be thrown from constructor's body.(›Ë¨ëúÿÿÿÿ8·à˜Æ,
+Nsquid:S1172“"/Remove this unused method parameter "gameType".(Õ”Íè8·à˜Æ,
+Hsquid:S2160"+Override the "equals" method in this class.(®’ÑG8·à˜Æ,
+ª%squid:RedundantThrowsDeclarationCheckv"mRemove the declaration of thrown exception 'ingsw.Server.Utility.GameException' which is a runtime exception.(ÊĞÊ“ûÿÿÿÿ8·à˜Æ,

@@ -1,0 +1,13 @@
+{
+  "cardName" : "Aurorae Magnificus",
+  "cardId" : 3,
+  "matchId" : 2,
+  "favorPoints" : 5,
+  "restrictions" : [
+    ["5","green","blue","purple","2"],
+    ["purple","","","","yellow"],
+    ["yellow","","6","","purple"],
+    ["1","","","green","4"]
+
+  ]
+}

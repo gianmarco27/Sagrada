@@ -1,0 +1,18 @@
+
+¦%squid:RedundantThrowsDeclarationCheck¯"mRemove the declaration of thrown exception 'ingsw.Server.Utility.GameException' which is a runtime exception.(À“Š8·à˜Æ,
+¥%squid:RedundantThrowsDeclarationChecki"mRemove the declaration of thrown exception 'ingsw.Server.Utility.GameException' which is a runtime exception.(·òø£8·à˜Æ,
+¥%squid:RedundantThrowsDeclarationCheckx"mRemove the declaration of thrown exception 'ingsw.Server.Utility.GameException' which is a runtime exception.(í©ä§8·à˜Æ,
+¦%squid:RedundantThrowsDeclarationCheck·"mRemove the declaration of thrown exception 'ingsw.Server.Utility.GameException' which is a runtime exception.(›Ò·½8·à˜Æ,
+«%squid:RedundantThrowsDeclarationCheck˜"mRemove the declaration of thrown exception 'ingsw.Server.Utility.GameException' which is a runtime exception.(í‡‹ ûÿÿÿÿ8·à˜Æ,
+ª%squid:RedundantThrowsDeclarationCheck"mRemove the declaration of thrown exception 'ingsw.Server.Utility.GameException' which is a runtime exception.(‚¢„¤ıÿÿÿÿ8·à˜Æ,
+¥%squid:RedundantThrowsDeclarationCheck,"mRemove the declaration of thrown exception 'ingsw.Server.Utility.GameException' which is a runtime exception.(Éó˜³8·à˜Æ,
+esquid:UselessImportCheck"5Remove this unused import 'java.rmi.RemoteException'.(Ä÷àÿÿÿÿÿ8·à˜Æ,
+«%squid:RedundantThrowsDeclarationCheck¾"mRemove the declaration of thrown exception 'ingsw.Server.Utility.GameException' which is a runtime exception.(Á¿·şÿÿÿÿ8·à˜Æ,
+«%squid:RedundantThrowsDeclarationCheck§"mRemove the declaration of thrown exception 'ingsw.Server.Utility.GameException' which is a runtime exception.(ü¦êùÿÿÿÿ8·à˜Æ,
+¦%squid:RedundantThrowsDeclarationCheckÅ"mRemove the declaration of thrown exception 'ingsw.Server.Utility.GameException' which is a runtime exception.(î»Î™8·à˜Æ,
+ª%squid:RedundantThrowsDeclarationCheckB"mRemove the declaration of thrown exception 'ingsw.Server.Utility.GameException' which is a runtime exception.(İº¡ıÿÿÿÿ8·à˜Æ,
+:squid:S3626Î"Remove this redundant jump.(ûÁİ…8·à˜Æ,
+¦%squid:RedundantThrowsDeclarationCheckŸ"mRemove the declaration of thrown exception 'ingsw.Server.Utility.GameException' which is a runtime exception.(Á«‘ç8·à˜Æ,
+~squid:S00120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(ìì†ïûÿÿÿÿ8·à˜Æ,
+ª%squid:RedundantThrowsDeclarationCheckq"mRemove the declaration of thrown exception 'ingsw.Server.Utility.GameException' which is a runtime exception.(ÊŠ€êÿÿÿÿÿ8·à˜Æ,
+«%squid:RedundantThrowsDeclarationCheckÍ"mRemove the declaration of thrown exception 'ingsw.Server.Utility.GameException' which is a runtime exception.(îó¾½ÿÿÿÿÿ8·à˜Æ,

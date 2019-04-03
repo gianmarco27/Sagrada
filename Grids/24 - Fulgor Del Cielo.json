@@ -1,0 +1,12 @@
+{
+  "cardName" : "Fulgor Del Cielo",
+  "cardId" : 24,
+  "matchId" : 12,
+  "favorPoints" : 5,
+  "restrictions" : [
+    ["","blue","red","",""],
+    ["","4","5","","blue"],
+    ["blue","2","","red","5"],
+    ["6","red","3","1",""]
+  ]
+}

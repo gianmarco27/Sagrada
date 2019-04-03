@@ -1,0 +1,6 @@
+projectKey=ingsw:ssp
+serverUrl=http://localhost:9000
+serverVersion=6.7.2.37468
+dashboardUrl=http://localhost:9000/dashboard/index/ingsw:ssp
+ceTaskId=AWRsFV2SHamZN6fm-cGX
+ceTaskUrl=http://localhost:9000/api/ce/task?id=AWRsFV2SHamZN6fm-cGX

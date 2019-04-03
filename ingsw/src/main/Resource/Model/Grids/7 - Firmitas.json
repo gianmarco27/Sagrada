@@ -1,0 +1,13 @@
+{
+  "cardName" : "Firmitas",
+  "cardId" : 7,
+  "matchId" : 4,
+  "favorPoints" : 5,
+  "restrictions" : [
+    ["purple","6","","","3"],
+    ["5","purple","3","",""],
+    ["","2","purple","1",""],
+    ["","1","5","purple","4"]
+
+  ]
+}

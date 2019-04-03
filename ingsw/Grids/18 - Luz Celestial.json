@@ -1,0 +1,12 @@
+{
+  "cardName" : "Luz Celestial ",
+  "cardId" : 18,
+  "matchId" : 9,
+  "favorPoints" : 3,
+  "restrictions" : [
+    ["","","red","5",""],
+    ["purple","4","","green","3"],
+    ["6","","","blue",""],
+    ["","yellow","2","",""]
+  ]
+}

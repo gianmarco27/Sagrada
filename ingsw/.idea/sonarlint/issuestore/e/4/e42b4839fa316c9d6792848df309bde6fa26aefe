@@ -1,0 +1,3 @@
+
+Ysquid:UselessImportCheck"0Remove this unused import 'ingsw.Server.Player'.(î¹„Ù8ˆ«Î•Æ,
+wsquid:S00120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(û÷±¨8ˆ«Î•Æ,

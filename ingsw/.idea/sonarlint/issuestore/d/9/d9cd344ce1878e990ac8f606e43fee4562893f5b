@@ -1,0 +1,11 @@
+
+®%squid:RedundantThrowsDeclarationCheck"vRemove the declaration of thrown exception 'java.rmi.RemoteException', as it cannot be thrown from constructor's body.(™Àğ½8·à˜Æ,
+ª%squid:RedundantThrowsDeclarationCheck/"mRemove the declaration of thrown exception 'ingsw.Server.Utility.GameException' which is a runtime exception.(òşˆ¿üÿÿÿÿ8·à˜Æ,
+9squid:S3626p"Remove this redundant jump.(ûÁİ…8·à˜Æ,
+9squid:S3626E"Remove this redundant jump.(ÉŠ©ƒ8·à˜Æ,
+wsquid:S14881"YImmediately return this expression instead of assigning it to the temporary variable "c".(é×üß8·à˜Æ,
+~squid:S00120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(ìì†ïûÿÿÿÿ8·à˜Æ,
+gsquid:UselessImportCheck"7Remove this unused import 'java.rmi.registry.Registry'.(¢Ò¹ğıÿÿÿÿ8·à˜Æ,
+Fsquid:S1659U"#Declare "conn2" on a separate line.(“Û·ªÿÿÿÿÿ8·à˜Æ,
+Usquid:S2589="7Remove this expression which always evaluates to "true"(›ûÅò8·à˜Æ,
+Isquid:S2160"+Override the "equals" method in this class.(îö­³8·à˜Æ,

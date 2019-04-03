@@ -1,0 +1,12 @@
+{
+  "cardName" : "Sun Catcher",
+  "cardId" : 5,
+  "matchId" : 3,
+  "favorPoints" : 3,
+  "restrictions" : [
+    ["","blue","2","","yellow"],
+    ["","4","","red",""],
+    ["","","5","yellow",""],
+    ["green","3","","","purple"]
+  ]
+}

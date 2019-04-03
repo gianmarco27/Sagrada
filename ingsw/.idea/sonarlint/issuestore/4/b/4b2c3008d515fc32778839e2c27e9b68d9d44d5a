@@ -1,0 +1,28 @@
+
+¦%squid:RedundantThrowsDeclarationCheck¿"mRemove the declaration of thrown exception 'ingsw.Server.Utility.GameException' which is a runtime exception.(í¦Ä8·à˜Æ,
+jsquid:CommentedOutCodeLine"<This block of commented-out lines of code should be removed.(’œÆ8·à˜Æ,
+~squid:S00120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(ìì†ïûÿÿÿÿ8·à˜Æ,
+]squid:S1155Ó">Use isEmpty() to check whether the collection is empty or not.(¸ëğÉ8µŠÍØÆ,
+hsquid:CommentedOutCodeLineX"<This block of commented-out lines of code should be removed.(¹Õ¸P8·à˜Æ,
+Osquid:S1612U",Replace this lambda with a method reference.(©¾¶éûÿÿÿÿ8·à˜Æ,
+«%squid:RedundantThrowsDeclarationCheckÉ"mRemove the declaration of thrown exception 'ingsw.Server.Utility.GameException' which is a runtime exception.(È’©øÿÿÿÿ8·à˜Æ,
+]squid:S1155ú">Use isEmpty() to check whether the collection is empty or not.(¸ëğÉ8µŠÍØÆ,
+¦%squid:RedundantThrowsDeclarationCheck¡"mRemove the declaration of thrown exception 'ingsw.Server.Utility.GameException' which is a runtime exception.( ú™¤8·à˜Æ,
+]squid:S1155Ê">Use isEmpty() to check whether the collection is empty or not.(¸ëğÉ8·à˜Æ,
+usquid:S3776S"RRefactor this method to reduce its Cognitive Complexity from 18 to the 15 allowed.(¿°ëãÿÿÿÿÿ8·à˜Æ,
+«%squid:RedundantThrowsDeclarationCheckù"mRemove the declaration of thrown exception 'ingsw.Server.Utility.GameException' which is a runtime exception.(êè€Šşÿÿÿÿ8µŠÍØÆ,
+Hsquid:S1181x"%Catch Exception instead of Throwable.(À˜§üÿÿÿÿ8·à˜Æ,
+Jsquid:S1168Ö"+Return an empty collection instead of null.(¥¹ï8·à˜Æ,
+«%squid:RedundantThrowsDeclarationCheckµ"mRemove the declaration of thrown exception 'ingsw.Server.Utility.GameException' which is a runtime exception.(³èÈüÿÿÿÿ8·à˜Æ,
+«%squid:RedundantThrowsDeclarationCheckÒ"mRemove the declaration of thrown exception 'ingsw.Server.Utility.GameException' which is a runtime exception.(†¥¿şşÿÿÿÿ8·à˜Æ,
+«%squid:RedundantThrowsDeclarationCheckå"mRemove the declaration of thrown exception 'ingsw.Server.Utility.GameException' which is a runtime exception.(¨şè×øÿÿÿÿ8Ğ¡ÌØÆ,
+«%squid:RedundantThrowsDeclarationCheckÜ"mRemove the declaration of thrown exception 'ingsw.Server.Utility.GameException' which is a runtime exception.(éõãùÿÿÿÿ8·à˜Æ,
+¥%squid:RedundantThrowsDeclarationCheck«"mRemove the declaration of thrown exception 'ingsw.Server.Utility.GameException' which is a runtime exception.(±³®o8·à˜Æ,
+«%squid:RedundantThrowsDeclarationCheckƒ"mRemove the declaration of thrown exception 'ingsw.Server.Utility.GameException' which is a runtime exception.(œ¬Õ”ıÿÿÿÿ8µŠÍØÆ,
+nsquid:CommentedOutCodeLinek"<This block of commented-out lines of code should be removed.(¤Ïÿüÿÿÿÿ8·à˜Æ,
+]squid:S1155¬">Use isEmpty() to check whether the collection is empty or not.(¸ëğÉ8·à˜Æ,
+]squid:S1155„">Use isEmpty() to check whether the collection is empty or not.(¸ëğÉ8·à˜Æ,
+[squid:S2589"7Remove this expression which always evaluates to "true"(ıºª«ıÿÿÿÿ8·à˜Æ,
+]squid:S1155¢">Use isEmpty() to check whether the collection is empty or not.(¸ëğÉ8·à˜Æ,
+¥%squid:RedundantThrowsDeclarationCheckK"mRemove the declaration of thrown exception 'ingsw.Server.Utility.GameException' which is a runtime exception.(Ò…¯ö8·à˜Æ,
+¥%squid:RedundantThrowsDeclarationCheckï"mRemove the declaration of thrown exception 'ingsw.Server.Utility.GameException' which is a runtime exception.(¯ò8µŠÍØÆ,

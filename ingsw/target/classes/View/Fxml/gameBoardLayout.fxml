@@ -1,0 +1,196 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<?import javafx.scene.control.Button?>
+<?import javafx.scene.control.Label?>
+<?import javafx.scene.layout.ColumnConstraints?>
+<?import javafx.scene.layout.GridPane?>
+<?import javafx.scene.layout.HBox?>
+<?import javafx.scene.layout.Pane?>
+<?import javafx.scene.layout.RowConstraints?>
+<?import javafx.scene.layout.StackPane?>
+<?import javafx.scene.layout.VBox?>
+<?import javafx.scene.text.Font?>
+
+<Pane maxHeight="-Infinity" maxWidth="-Infinity" minHeight="-Infinity" minWidth="-Infinity" prefHeight="720.0" prefWidth="1280.0" xmlns="http://javafx.com/javafx/8.0.121" xmlns:fx="http://javafx.com/fxml/1">
+   <children>
+      <Pane fx:id="LeftMain" prefHeight="720.0" prefWidth="640.0" style="-fx-border-width: 1px; -fx-border-color: black;">
+         <children>
+            <Pane fx:id="OpponentSection" prefHeight="280.0" prefWidth="640.0" style="-fx-border-width: 1px; -fx-border-color: black; -fx-stroke: black;" styleClass=".PlayerInfo:disabled {-fx-stroke: black;}" />
+            <Pane fx:id="ObjectiveSection" layoutY="280.0" prefHeight="220.0" prefWidth="640.0" style="-fx-border-width: 1px; -fx-border-color: black;">
+               <children>
+                  <Pane fx:id="Objectives" prefHeight="220.0" prefWidth="640.0" />
+               </children></Pane>
+            <Pane fx:id="ToolSection" layoutY="500.0" prefHeight="220.0" prefWidth="640.0" style="-fx-border-width: 1px; -fx-border-color: black;" />
+         </children>
+      </Pane>
+      <Pane fx:id="RightMain" layoutX="640.0" prefHeight="720.0" prefWidth="640.0" style="-fx-border-width: 1px; -fx-border-color: black;">
+         <children>
+            <Pane layoutY="280.0">
+               <children>
+                  <Pane fx:id="PlayerSection" pickOnBounds="false" prefHeight="440.0" prefWidth="640.0" style="-fx-border-width: 1px; -fx-border-color: black;">
+                     <children>
+                        <StackPane fx:id="PlayerGrid" layoutX="202.0" pickOnBounds="false" prefHeight="402.0" prefWidth="437.0" style="-fx-border-color: black;" />
+                        <Pane layoutX="202.0" layoutY="402.0" pickOnBounds="false" prefHeight="38.0" prefWidth="437.0" style="-fx-border-color: black;">
+                           <children>
+                              <Button fx:id="confirmButton" layoutX="366.0" layoutY="4.0" mnemonicParsing="false" prefHeight="30.0" prefWidth="49.0" style="-fx-background-color: rgb(39,174,96);" text="OK" textFill="WHITE">
+                                 <font>
+                                    <Font name="System Bold" size="12.0" />
+                                 </font></Button>
+                              <Button id="wishedValue" fx:id="BackButton1" layoutX="7.0" layoutY="4.0" mnemonicParsing="false" prefHeight="30.0" prefWidth="120.0" style="-fx-background-color: rgb(230,126,34);" text="WISHED VALUE" textFill="WHITE">
+                                 <font>
+                                    <Font name="System Bold" size="12.0" />
+                                 </font>
+                              </Button>
+                              <Label fx:id="wishedValueLabel" layoutX="134.0" layoutY="6.0" prefHeight="27.0" prefWidth="69.0" text="Change To Param" textFill="#c6810b" wrapText="true" />
+                              <Button fx:id="endTurnButton" layoutX="193.0" layoutY="7.0" mnemonicParsing="false" style="-fx-background-color: rgb(63,153,230);" text="END TURN" textFill="WHITE">
+                                 <font>
+                                    <Font name="System Bold" size="12.0" />
+                                 </font>
+                              </Button>
+                           </children>
+                        </Pane>
+                        <Pane fx:id="DicePoolSection" prefHeight="440.0" prefWidth="202.0" style="-fx-border-color: black;">
+                           <children>
+                              <Pane fx:id="DicePool" layoutX="1.0" layoutY="35.0" prefHeight="290.0" prefWidth="200.0" />
+                              <HBox fx:id="PoolLabel" alignment="CENTER" layoutX="1.0" prefHeight="30.0" prefWidth="200.0">
+                                 <children>
+                                    <Label contentDisplay="CENTER" text="DicePool" textAlignment="CENTER" wrapText="true">
+                                       <font>
+                                          <Font size="24.0" />
+                                       </font>
+                                    </Label>
+                                 </children>
+                              </HBox>
+                              <VBox fx:id="infoLabels" alignment="CENTER" layoutX="-1.0" layoutY="330.0" prefHeight="110.0" prefWidth="200.0">
+                                 <children>
+                                    <Label fx:id="yourTurnLabel" alignment="CENTER" prefHeight="17.0" prefWidth="195.0" text="Available Actions:">
+                                       <font>
+                                          <Font name="System Bold" size="16.0" />
+                                       </font>
+                                    </Label>
+                                    <Label fx:id="toolActionLabel" alignment="CENTER" contentDisplay="CENTER" prefHeight="38.0" prefWidth="199.0" text="toolActionLabel" textAlignment="CENTER" textFill="#e11313">
+                                       <font>
+                                          <Font name="System Bold" size="20.0" />
+                                       </font>
+                                    </Label>
+                                    <Label fx:id="diceActionLabel" alignment="CENTER" contentDisplay="CENTER" layoutX="19.0" layoutY="34.0" prefHeight="38.0" prefWidth="203.0" text="diceActionLabel" textAlignment="CENTER" textFill="#e11313">
+                                       <font>
+                                          <Font name="System Bold" size="20.0" />
+                                       </font>
+                                    </Label>
+                                 </children>
+                              </VBox>
+                           </children>
+                        </Pane>
+                     </children>
+                  </Pane>
+               </children>
+            </Pane>
+            <Pane fx:id="RoundTrackerSection" layoutY="53.0" prefHeight="227.0" prefWidth="640.0" snapToPixel="false" style="-fx-border-width: 1px; -fx-border-color: black;">
+               <children>
+                  <GridPane fx:id="RoundTrackerGrid" alignment="CENTER" layoutX="8.0" layoutY="51.0" prefHeight="151.0" prefWidth="620.0">
+                    <columnConstraints>
+                        <ColumnConstraints hgrow="SOMETIMES" maxWidth="-Infinity" minWidth="-Infinity" prefWidth="61.0" />
+                        <ColumnConstraints hgrow="SOMETIMES" maxWidth="-Infinity" minWidth="-Infinity" prefWidth="61.0" />
+                        <ColumnConstraints hgrow="SOMETIMES" maxWidth="-Infinity" minWidth="-Infinity" prefWidth="61.0" />
+                        <ColumnConstraints hgrow="SOMETIMES" maxWidth="-Infinity" minWidth="-Infinity" prefWidth="61.0" />
+                        <ColumnConstraints hgrow="SOMETIMES" maxWidth="-Infinity" minWidth="-Infinity" prefWidth="61.0" />
+                        <ColumnConstraints hgrow="SOMETIMES" maxWidth="-Infinity" minWidth="-Infinity" prefWidth="61.0" />
+                        <ColumnConstraints hgrow="SOMETIMES" maxWidth="-Infinity" minWidth="-Infinity" prefWidth="61.0" />
+                        <ColumnConstraints hgrow="SOMETIMES" maxWidth="-Infinity" minWidth="-Infinity" prefWidth="61.0" />
+                        <ColumnConstraints hgrow="SOMETIMES" maxWidth="-Infinity" minWidth="-Infinity" prefWidth="61.0" />
+                      <ColumnConstraints hgrow="SOMETIMES" maxWidth="-Infinity" minWidth="-Infinity" prefWidth="61.0" />
+                    </columnConstraints>
+                    <rowConstraints>
+                      <RowConstraints maxHeight="1.7976931348623157E308" minHeight="-Infinity" vgrow="SOMETIMES" />
+                    </rowConstraints>
+                  </GridPane>
+                  <Label alignment="CENTER" contentDisplay="CENTER" layoutX="2.0" prefHeight="27.0" prefWidth="638.0" text="RoundTracker" textAlignment="CENTER" wrapText="true">
+                     <font>
+                        <Font size="18.0" />
+                     </font>
+                  </Label>
+                  <GridPane fx:id="RoundTrackerGrid" alignment="CENTER" layoutX="3.0" layoutY="24.0" prefHeight="19.0" prefWidth="628.0">
+                     <columnConstraints>
+                        <ColumnConstraints hgrow="SOMETIMES" maxWidth="-Infinity" minWidth="-Infinity" prefWidth="61.0" />
+                        <ColumnConstraints hgrow="SOMETIMES" maxWidth="-Infinity" minWidth="-Infinity" prefWidth="61.0" />
+                        <ColumnConstraints hgrow="SOMETIMES" maxWidth="-Infinity" minWidth="-Infinity" prefWidth="61.0" />
+                        <ColumnConstraints hgrow="SOMETIMES" maxWidth="-Infinity" minWidth="-Infinity" prefWidth="61.0" />
+                        <ColumnConstraints hgrow="SOMETIMES" maxWidth="-Infinity" minWidth="-Infinity" prefWidth="61.0" />
+                        <ColumnConstraints hgrow="SOMETIMES" maxWidth="-Infinity" minWidth="-Infinity" prefWidth="61.0" />
+                        <ColumnConstraints hgrow="SOMETIMES" maxWidth="-Infinity" minWidth="-Infinity" prefWidth="61.0" />
+                        <ColumnConstraints hgrow="SOMETIMES" maxWidth="-Infinity" minWidth="-Infinity" prefWidth="61.0" />
+                        <ColumnConstraints hgrow="SOMETIMES" maxWidth="-Infinity" minWidth="-Infinity" prefWidth="61.0" />
+                        <ColumnConstraints hgrow="SOMETIMES" maxWidth="-Infinity" minWidth="-Infinity" prefWidth="61.0" />
+                     </columnConstraints>
+                     <rowConstraints>
+                        <RowConstraints maxHeight="1.7976931348623157E308" minHeight="-Infinity" vgrow="SOMETIMES" />
+                     </rowConstraints>
+                     <children>
+                        <Label alignment="CENTER" contentDisplay="CENTER" prefHeight="17.0" prefWidth="61.0" text="2" textAlignment="CENTER" GridPane.columnIndex="1">
+                           <font>
+                              <Font size="16.0" />
+                           </font>
+                        </Label>
+                        <Label alignment="CENTER" contentDisplay="CENTER" prefHeight="20.0" prefWidth="73.0" text=" 1" textAlignment="CENTER">
+                           <font>
+                              <Font size="16.0" />
+                           </font>
+                        </Label>
+                        <Label alignment="CENTER" contentDisplay="CENTER" prefHeight="17.0" prefWidth="61.0" text="3" textAlignment="CENTER" GridPane.columnIndex="2">
+                           <font>
+                              <Font size="16.0" />
+                           </font>
+                        </Label>
+                        <Label alignment="CENTER" contentDisplay="CENTER" prefHeight="17.0" prefWidth="61.0" text="4" textAlignment="CENTER" GridPane.columnIndex="3">
+                           <font>
+                              <Font size="15.0" />
+                           </font>
+                        </Label>
+                        <Label alignment="CENTER" contentDisplay="CENTER" prefHeight="17.0" prefWidth="61.0" text="5" textAlignment="CENTER" GridPane.columnIndex="4">
+                           <font>
+                              <Font size="16.0" />
+                           </font>
+                        </Label>
+                        <Label alignment="CENTER" contentDisplay="CENTER" prefHeight="17.0" prefWidth="61.0" text="6" textAlignment="CENTER" GridPane.columnIndex="5">
+                           <font>
+                              <Font size="16.0" />
+                           </font>
+                        </Label>
+                        <Label alignment="CENTER" contentDisplay="CENTER" prefHeight="17.0" prefWidth="61.0" text="7" textAlignment="CENTER" GridPane.columnIndex="6">
+                           <font>
+                              <Font size="16.0" />
+                           </font>
+                        </Label>
+                        <Label alignment="CENTER" contentDisplay="CENTER" prefHeight="17.0" prefWidth="61.0" text="8" textAlignment="CENTER" GridPane.columnIndex="7">
+                           <font>
+                              <Font size="16.0" />
+                           </font>
+                        </Label>
+                        <Label alignment="CENTER" contentDisplay="CENTER" prefHeight="17.0" prefWidth="61.0" text="9" textAlignment="CENTER" GridPane.columnIndex="8">
+                           <font>
+                              <Font size="16.0" />
+                           </font>
+                        </Label>
+                        <Label alignment="CENTER" contentDisplay="CENTER" prefHeight="20.0" prefWidth="66.0" text="10" textAlignment="CENTER" GridPane.columnIndex="9">
+                           <font>
+                              <Font size="16.0" />
+                           </font>
+                        </Label>
+                     </children>
+                  </GridPane>
+               </children>
+            </Pane>
+            <StackPane fx:id="statusSection" prefHeight="55.0" prefWidth="640.0" style="-fx-border-color: black;">
+               <children>
+                  <Label fx:id="statusInfo" alignment="CENTER" contentDisplay="CENTER" prefHeight="50.0" prefWidth="640.0" text="placeholder log infos">
+                     <font>
+                        <Font size="18.0" />
+                     </font>
+                  </Label>
+               </children>
+            </StackPane>
+         </children>
+      </Pane>
+   </children>
+</Pane>

@@ -1,0 +1,12 @@
+{
+  "cardName" : "Sun's Glory",
+  "cardId" : 23,
+  "matchId" : 12,
+  "favorPoints" : 6,
+  "restrictions" : [
+    ["1","purple","yellow","","4"],
+    ["purple","yellow","","","6"],
+    ["yellow","","","5","3"],
+    ["","5","4","2","1"]
+  ]
+}

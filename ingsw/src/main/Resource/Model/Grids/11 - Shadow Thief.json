@@ -1,0 +1,13 @@
+{
+  "cardName" : "Shadow Thief",
+  "cardId" : 11,
+  "matchId" : 6,
+  "favorPoints" : 5,
+  "restrictions" : [
+    ["6","purple","","","5"],
+    ["5","","purple","",""],
+    ["red","6","","purple",""],
+    ["yellow","red","5","4","3"]
+
+  ]
+}

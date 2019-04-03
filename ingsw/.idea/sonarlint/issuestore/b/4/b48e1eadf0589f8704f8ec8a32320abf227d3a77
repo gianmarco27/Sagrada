@@ -1,0 +1,17 @@
+
+Ysquid:S1141Î"5Extract this nested try block into a separate method.(¡»¢üùÿÿÿÿ8¾ÌäáÆ,
+rsquid:S1192g"ODefine a constant instead of duplicating this literal "dicePoolTarget" 4 times.(Û‰­ôÿÿÿÿÿ8¥ˆ¯•Æ,
+jsquid:S1192f"LDefine a constant instead of duplicating this literal "dicePoolPay" 4 times.(ş™ß8¥ˆ¯•Æ,
+qsquid:S3776”"RRefactor this method to reduce its Cognitive Complexity from 32 to the 15 allowed.(«ÉÉµ8¾ÌäáÆ,
+]squid:S1118":Add a private constructor to hide the implicit public one.(§ÙÁ¶ûÿÿÿÿ8¥ˆ¯•Æ,
+psquid:S3776b"RRefactor this method to reduce its Cognitive Complexity from 25 to the 15 allowed.(ŞÑ8¥ˆ¯•Æ,
+Ysquid:S1141¶"5Extract this nested try block into a separate method.(¡»¢üùÿÿÿÿ8¾ÌäáÆ,
+Ysquid:S1141£"5Extract this nested try block into a separate method.(¡»¢üùÿÿÿÿ8¾ÌäáÆ,
+Ksquid:S1602µ",Remove useless curly braces around statement(û†µ8¾ÌäáÆ,
+tsquid:S1192ª"VDefine a constant instead of duplicating this literal "-fx-background-color:" 3 times.(èÄ|8¾ÌäáÆ,
+Msquid:S1066~"/Merge this if statement with the enclosing one.(¯òÓ»8¥ˆ¯•Æ,
+fsquid:S1192«"GDefine a constant instead of duplicating this literal "orange" 3 times.(èô…è8¥ˆ¯•Æ,
+Ysquid:S1141Ú"5Extract this nested try block into a separate method.(¡»¢üùÿÿÿÿ8¾ÌäáÆ,
+Ksquid:S1602‚",Remove useless curly braces around statement(û†µ8¾ÌäáÆ,
+Ysquid:S1141¾"5Extract this nested try block into a separate method.(¡»¢üùÿÿÿÿ8¾ÌäáÆ,
+xsquid:S00120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(ÓôıD8¥ˆ¯•Æ,

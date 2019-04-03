@@ -1,0 +1,32 @@
+
+`squid:S1192"FDefine a constant instead of duplicating this literal "%b \n" 4 times.(™µÁßøÿÿÿÿ
+M
+squid:S106"9Replace this use of System.out or System.err by a logger.(Í¦î
+R
+squid:S106"9Replace this use of System.out or System.err by a logger.(™µÁßøÿÿÿÿ
+M
+squid:S106"9Replace this use of System.out or System.err by a logger.(ø´³¡
+M
+squid:S106"9Replace this use of System.out or System.err by a logger.(‡¡â
+M
+squid:S106"9Replace this use of System.out or System.err by a logger.(ø´³¡
+R
+squid:S106"9Replace this use of System.out or System.err by a logger.(å¾·¿üÿÿÿÿ
+M
+squid:S106"9Replace this use of System.out or System.err by a logger.(ø´³¡
+M
+squid:S106"9Replace this use of System.out or System.err by a logger.(¦ÆÔÜ
+M
+squid:S106"9Replace this use of System.out or System.err by a logger.(ø´³¡
+M
+squid:S106"9Replace this use of System.out or System.err by a logger.(ø´³¡
+^squid:S2259"DA "NullPointerException" could be thrown; "myGrid" is nullable here.(š„±’şÿÿÿÿ
+^squid:S2147"DCombine this catch with the one at line 22, which has the same body.(Ë‘¸şÿÿÿÿ
+Rsquid:UselessImportCheck"+Remove this unused import 'java.util.List'.(Õë±Äøÿÿÿÿ
+Rsquid:UselessImportCheck"0Remove this unused import 'java.util.ArrayList'.(÷‰îƒ
+=squid:S1148"#Use a logger to log this exception.(€ÉÔ…ıÿÿÿÿ
+=squid:S1148"#Use a logger to log this exception.(€ÉÔ…ıÿÿÿÿ
+ksquid:S3457"Q%n should be used in place of \n to produce the platform-specific line separator.(™µÁßøÿÿÿÿ
+fsquid:S3457"Q%n should be used in place of \n to produce the platform-specific line separator.(‡¡â
+ksquid:S3457"Q%n should be used in place of \n to produce the platform-specific line separator.(å¾·¿üÿÿÿÿ
+fsquid:S3457"Q%n should be used in place of \n to produce the platform-specific line separator.(¦ÆÔÜ

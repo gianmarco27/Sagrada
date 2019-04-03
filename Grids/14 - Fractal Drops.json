@@ -1,0 +1,12 @@
+{
+  "cardName" : "Fractal Drops",
+  "cardId" : 14,
+  "matchId" : 7,
+  "favorPoints" : 3,
+  "restrictions" : [
+    ["","4","","yellow","6"],
+    ["","","2","",""],
+    ["red","","red","purple","1"],
+    ["blue","yellow","","",""]
+  ]
+}

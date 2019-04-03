@@ -1,0 +1,7 @@
+
+Usquid:S2629W"7Use the built-in formatting to construct this argument.(ÃÊ›§8ˆ„¿–Æ,
+ysquid:S00120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(§¯³ 8ˆ„¿–Æ,
+Zsquid:S2629P"7Use the built-in formatting to construct this argument.(ÒùÖ“ÿÿÿÿÿ8ˆ„¿–Æ,
+ª%squid:RedundantThrowsDeclarationCheckO"mRemove the declaration of thrown exception 'ingsw.Server.Utility.GameException' which is a runtime exception.(½öıÿÿÿÿ8ˆ„¿–Æ,
+ª%squid:RedundantThrowsDeclarationCheckF"mRemove the declaration of thrown exception 'ingsw.Server.Utility.GameException' which is a runtime exception.(±€ûÿÿÿÿ8ˆ„¿–Æ,
+¥%squid:RedundantThrowsDeclarationCheckU"mRemove the declaration of thrown exception 'ingsw.Server.Utility.GameException' which is a runtime exception.(Î¡ìÿ8ˆ„¿–Æ,

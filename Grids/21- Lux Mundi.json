@@ -1,0 +1,12 @@
+{
+  "cardName" : "Lux Mundi",
+  "cardId" : 21,
+  "matchId" : 11,
+  "favorPoints" : 6,
+  "restrictions" : [
+    ["","","1","",""],
+    ["1","green","3","blue","2"],
+    ["blue","5","4","6","green"],
+    ["","blue","5","green",""]
+  ]
+}

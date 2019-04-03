@@ -1,0 +1,9 @@
+
+Asquid:S2160"+Override the "equals" method in this class.(”ıÁ}
+tsquid:S4144`"]Update this method so that its implementation is not identical to "playerTurnEnd" on line 90.(¾Â´
+ysquid:S4144f"]Update this method so that its implementation is not identical to "playerTurnEnd" on line 90.(­›‡—úÿÿÿÿ
+ysquid:S4144l"]Update this method so that its implementation is not identical to "playerTurnEnd" on line 90.(©¶ıÿÿÿÿ
+ysquid:S4144r"]Update this method so that its implementation is not identical to "playerTurnEnd" on line 90.(‰ÿñºøÿÿÿÿ
+squid:S1186 "€Add a nested comment explaining why this method is empty, throw an UnsupportedOperationException or complete the implementation.(Ğ›ïüÿÿÿÿ
+squid:S1186¥"€Add a nested comment explaining why this method is empty, throw an UnsupportedOperationException or complete the implementation.(àÎ°Óıÿÿÿÿ
+rsquid:S00120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(§¯³ 

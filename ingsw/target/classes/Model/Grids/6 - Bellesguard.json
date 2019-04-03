@@ -1,0 +1,13 @@
+{
+  "cardName" : "Bellesguard",
+  "cardId" : 6,
+  "matchId" : 3,
+  "favorPoints" : 3,
+  "restrictions" : [
+    ["blue","6","","","yellow"],
+    ["","3","blue","",""],
+    ["","5","6","2",""],
+    ["","4","","1","green"]
+
+  ]
+}

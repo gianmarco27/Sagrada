@@ -1,0 +1,12 @@
+{
+  "cardName" : "Comitas",
+  "cardId" : 22,
+  "matchId" : 11,
+  "favorPoints" : 5,
+  "restrictions" : [
+    ["yellow","","2","","6"],
+    ["","4","","5","yellow"],
+    ["","","","yellow","5"],
+    ["1","2","yellow","3",""]
+  ]
+}

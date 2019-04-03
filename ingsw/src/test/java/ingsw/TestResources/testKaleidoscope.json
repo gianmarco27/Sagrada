@@ -1,0 +1,12 @@
+{
+  "cardName" : "Test Kaleidoscopic Dream",
+  "cardId" : 1,
+  "matchId" : 1,
+  "favorPoints" : 4,
+  "restrictions" : [
+    ["yellow","blue","","","1"],
+    ["green","","5","","4"],
+    ["3","","red","","green"],
+    ["2","","","blue","yellow"]
+  ]
+}

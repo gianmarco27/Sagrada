@@ -1,0 +1,7 @@
+
+psquid:S1450"YRemove the "controller" field and declare it as a local variable in the relevant methods.(±γ¶
+Esquid:S1068".Remove this unused "controller" private field.(±γ¶
+N
+squid:S106#"9Replace this use of System.out or System.err by a logger.(ΰ «7
+qsquid:S00120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(ΣτύD
+‰ squid:ForLoopCounterChangedCheckv"XRefactor the code in order to not assign to this loop counter from within the loop body.(…ϊ΅πÿÿÿÿÿ

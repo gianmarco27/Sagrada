@@ -1,0 +1,14 @@
+
+Gsquid:S2160"+Override the "equals" method in this class.(ºÊ°£üÿÿÿÿ
+T
+squid:S106)"9Replace this use of System.out or System.err by a logger.(¦ŒýÒÿÿÿÿÿ
+<squid:S1948"&Make "conn" transient or serializable.(ÊÜœ{
+O
+squid:S1069"9Replace this use of System.out or System.err by a logger.(Î¨„Ò
+rsquid:S00120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(§¯³ 
+Xsquid:S1126;"AReplace this if-then-else statement by a single return statement.(ÈÚ†Œ
+:squid:S1948"#Make "c" transient or serializable.(Ý²Ëø
+T
+squid:S1061"9Replace this use of System.out or System.err by a logger.(×ô¸îûÿÿÿÿ
+Ksquid:S1948"/Make "controllerSet" transient or serializable.(›Ó¥ûÿÿÿÿ
+Ÿ%squid:RedundantThrowsDeclarationCheck¡"mRemove the declaration of thrown exception 'ingsw.Server.Utility.GameException' which is a runtime exception.(æÐð

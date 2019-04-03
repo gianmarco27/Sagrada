@@ -1,0 +1,7 @@
+
+Vsquid:S1118":Add a private constructor to hide the implicit public one.(ä·î¤ùÿÿÿÿ
+fsquid:S00100 "NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(žÀ±û
+Ksquid:S2864?"4Iterate over the "entrySet" instead of the "keySet".(¿œ²Œ
+ksquid:S00100"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(¥ÐÖªøÿÿÿÿ
+qsquid:S00120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(ÓôýD
+Ksquid:S28647"4Iterate over the "entrySet" instead of the "keySet".(¿œ²Œ

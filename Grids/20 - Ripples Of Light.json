@@ -1,0 +1,12 @@
+{
+  "cardName" : "Ripples Of Light",
+  "cardId" : 20,
+  "matchId" : 10,
+  "favorPoints" : 5,
+  "restrictions" : [
+    ["","","","red","5"],
+    ["","","purple","4","blue"],
+    ["","blue","3","yellow","6"],
+    ["yellow","2","green","1","red"]
+  ]
+}

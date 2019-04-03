@@ -1,0 +1,12 @@
+{
+  "cardName" : "Chromatic Splendor",
+  "cardId" : 16,
+  "matchId" : 8,
+  "favorPoints" : 4,
+  "restrictions" : [
+    ["","","green","",""],
+    ["2","yellow","5","blue","1"],
+    ["","red","3","purple",""],
+    ["1","","6","","4"]
+  ]
+}

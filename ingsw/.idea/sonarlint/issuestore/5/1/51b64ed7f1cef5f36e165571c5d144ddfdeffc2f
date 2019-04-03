@@ -1,0 +1,22 @@
+
+Tsquid:S2696P"6Make the enclosing method "static" or remove this set.(½‡8¦ˆ¯•Æ,
+Ysquid:S2696N"6Make the enclosing method "static" or remove this set.(Ş¤µ«ûÿÿÿÿ8¦ˆ¯•Æ,
+Msquid:S3010>"*Remove this assignment of "opponentsView".(£óâ¨üÿÿÿÿ8¦ˆ¯•Æ,
+Ysquid:S2696d"6Make the enclosing method "static" or remove this set.(Ò’Ø¬ıÿÿÿÿ8¦ˆ¯•Æ,
+Nsquid:S3010@"+Remove this assignment of "objectivesView".(¬¦Š¢şÿÿÿÿ8¦ˆ¯•Æ,
+Ysquid:S2696K"6Make the enclosing method "static" or remove this set.(ŞÖ³âşÿÿÿÿ8¦ˆ¯•Æ,
+Dsquid:S3010?"&Remove this assignment of "toolsView".(½‡8¦ˆ¯•Æ,
+Ksquid:S3010D"(Remove this assignment of "wishedValue".(äœŞğüÿÿÿÿ8¦ˆ¯•Æ,
+Tsquid:S2696e"6Make the enclosing method "static" or remove this set.(©Â“8¦ˆ¯•Æ,
+Ysquid:S2696c"6Make the enclosing method "static" or remove this set.(ğ§äµüÿÿÿÿ8¦ˆ¯•Æ,
+Ysquid:S2696f"6Make the enclosing method "static" or remove this set.(ŸŸ×°ûÿÿÿÿ8¦ˆ¯•Æ,
+Psquid:S3010<"-Remove this assignment of "roundTrackerView".(š¼åİşÿÿÿÿ8¦ˆ¯•Æ,
+Osquid:S1612X",Replace this lambda with a method reference.(­ÛºÜúÿÿÿÿ8¦ˆ¯•Æ,
+Osquid:S3010C",Remove this assignment of "wishedValueView".(¡˜Ã™üÿÿÿÿ8¦ˆ¯•Æ,
+Ysquid:S2696M"6Make the enclosing method "static" or remove this set.(š¼åİşÿÿÿÿ8¦ˆ¯•Æ,
+Ysquid:S2696Q"6Make the enclosing method "static" or remove this set.(¬¦Š¢şÿÿÿÿ8¦ˆ¯•Æ,
+?squid:S30106"!Remove this assignment of "root".(”†Œ½8¦ˆ¯•Æ,
+Ysquid:S2696O"6Make the enclosing method "static" or remove this set.(£óâ¨üÿÿÿÿ8¦ˆ¯•Æ,
+Lsquid:S3010=")Remove this assignment of "dicePoolView".(Ş¤µ«ûÿÿÿÿ8¦ˆ¯•Æ,
+Gsquid:S3010:"$Remove this assignment of "ownGrid".(ŞÖ³âşÿÿÿÿ8¦ˆ¯•Æ,
+ysquid:S00120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(…ïš8¦ˆ¯•Æ,

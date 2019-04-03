@@ -1,0 +1,4 @@
+
+‡"squid:ClassVariableVisibilityCheck"VMake turnPlayed a static final constant or non-public and provide accessors if needed.(ÄÀÚÔüÿÿÿÿ
+psquid:S00120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(¡‰í˜
+xsquid:S1157"cReplace these toUpperCase()/toLowerCase() and equals() calls with a single equalsIgnoreCase() call.(¬Ò°À

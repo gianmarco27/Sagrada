@@ -1,0 +1,13 @@
+{
+  "cardName" : "Batllo",
+  "cardId" : 12,
+  "matchId" : 6,
+  "favorPoints" : 5,
+  "restrictions" : [
+    ["","","6","",""],
+    ["","5","blue","4",""],
+    ["3","green","yellow","purple","2"],
+    ["1","4","red","5","3"]
+
+  ]
+}

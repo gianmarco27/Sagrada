@@ -1,0 +1,13 @@
+{
+  "cardName" : "temp",
+  "cardId" : 4,
+  "matchId" : 1,
+  "favorPoints" : 4,
+  "restrictions" : [
+    ["yellow","","6","",""],
+    ["","1","5","","2"],
+    ["3","yellow","red","purple",""],
+    ["","","4","3","red"]
+
+  ]
+}

@@ -1,0 +1,12 @@
+{
+  "cardName" : "Lux Astram",
+  "cardId" : 15,
+  "matchId" : 8,
+  "favorPoints" : 5,
+  "restrictions" : [
+    ["","1","green","purple","4"],
+    ["6","purple","2","5","green"],
+    ["1","green","5","3","purple"],
+    ["","","","",""]
+  ]
+}
